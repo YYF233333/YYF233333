@@ -4,6 +4,8 @@ I work on GPU-accelerated real-time 3D reconstruction and C++ performance optimi
 
 Master's in Computer Science, University of Science and Technology of China (USTC).
 
+Contact: [yyf.ring@gmail.com](mailto:yyf.ring@gmail.com)
+
 ## Godot
 
 Godot contributor · [Merged PRs](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3AYYF233333+is%3Amerged)
