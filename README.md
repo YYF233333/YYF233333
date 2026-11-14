@@ -18,6 +18,6 @@ Selected contributions:
 
 | Project | About |
 | --- | --- |
-| [Lobotomy](https://github.com/vorton-lang/Lobotomy) | A personal experiment in human–agent collaboration: a persistent GUI workspace across coding harnesses. In development. |
+| [Petrichor](https://github.com/YYF233333/Petrichor) | A statically typed scripting language for Godot 4, with GDScript-like syntax, scene-aware checking and editor integration. [0.1 is available for early feedback](https://github.com/YYF233333/Petrichor/releases/tag/v0.1.0). |
 | [Vorton](https://github.com/vorton-lang/vorton) | An in-development programming language and compiler, implemented in Rust and compiling to native programs through C11. |
 | [AsGaLore](https://github.com/YYF233333/AsGaLore) | A research implementation extending GaLore with asynchronous CPU SVD offloading for memory-efficient LLM training. |
